@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="application is being developed" />
+            <option value="exceptions is allowed" />
           </set>
         </option>
       </SuppressingContext>
