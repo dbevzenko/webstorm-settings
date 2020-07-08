@@ -1,5 +1,14 @@
 <keymap version="1" name="Dmytro's macOS" parent="Mac OS X 10.5+">
+  <action id="Debug" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
   </action>
 </keymap>
