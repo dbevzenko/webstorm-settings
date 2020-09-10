@@ -3,5 +3,8 @@
     <account id="7a669309-0539-45db-8576-db888b62c6dd" name="D53549">
       <server host="git.eogresources.com" />
     </account>
+    <account id="459e1180-31c0-4ee3-887c-d401203f31bd" name="dbevzenko">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
