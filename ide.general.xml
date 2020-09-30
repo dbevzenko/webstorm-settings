@@ -9,7 +9,8 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="Memory" value="true" />
+        <entry key="Encoding" value="false" />
+        <entry key="JSONSchemaSelector" value="false" />
       </map>
     </option>
   </component>
