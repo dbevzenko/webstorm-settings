@@ -3,7 +3,7 @@
     <property name="created">2020-11-25T10:11:55</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-25T22:41:10</property>
+    <property name="modified">2021-03-07T20:50:51</property>
     <property name="originalScheme">light_theme</property>
   </metaInfo>
   <colors>
@@ -746,6 +746,31 @@
         <option name="BACKGROUND" value="fee9c2" />
         <option name="EFFECT_COLOR" value="ed3b6e" />
         <option name="ERROR_STRIPE_COLOR" value="ffd3ab" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="ffffe8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="f0fff0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="fff0ff" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="eafdfd" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d9bcbc" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
