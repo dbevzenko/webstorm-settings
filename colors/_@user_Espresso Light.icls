@@ -1,11 +1,16 @@
-<scheme name="_@user_light_theme" version="142" parent_scheme="Default">
+<scheme name="_@user_Espresso Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-11-25T10:11:55</property>
+    <property name="created">2021-03-23T08:59:12</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.2.3.0.0</property>
+    <property name="ideVersion">2020.3.3.0.0</property>
     <property name="modified">2021-03-23T09:05:04</property>
-    <property name="originalScheme">light_theme</property>
+    <property name="originalScheme">Espresso Light</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="dbf0a0" />
     <option name="CARET_COLOR" value="630c50" />
@@ -836,14 +841,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="b6d334" />
@@ -902,8 +899,15 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="2fbcf1" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="114344" />
+        <option name="BACKGROUND" value="afdae7" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -1087,7 +1091,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="a8be2b" />
+        <option name="FOREGROUND" value="9aad17" />
       </value>
     </option>
     <option name="YAML_COMMENT">
