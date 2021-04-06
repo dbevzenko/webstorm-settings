@@ -3,7 +3,7 @@
     <property name="created">2021-03-07T20:47:49</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-04-03T14:10:37</property>
+    <property name="modified">2021-04-06T08:57:45</property>
     <property name="originalScheme">shirotelin</property>
   </metaInfo>
   <colors>
@@ -128,7 +128,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f00" />
@@ -192,7 +192,7 @@
         <option name="FOREGROUND" value="5f" />
       </value>
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ENTITY" baseAttributes="" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="5f" />
@@ -333,7 +333,7 @@
         <option name="FOREGROUND" value="af" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TAG" baseAttributes="" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="af00af" />
