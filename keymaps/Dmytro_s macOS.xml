@@ -2,6 +2,9 @@
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
+  </action>
   <action id="Debug" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
