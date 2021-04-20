@@ -1,11 +1,15 @@
 <scheme name="_@user_Solarized Light (4lex4)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-03-07T20:47:49</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-04-16T10:13:45</property>
+    <property name="modified">2021-04-20T08:27:33</property>
     <property name="originalScheme">Solarized Light (4lex4)</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
     <option name="ANNOTATIONS_COLOR" value="586e76" />
@@ -947,6 +951,9 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c94916" />
@@ -1271,11 +1278,13 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="2e98b6" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1576,8 +1585,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="badccc" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
