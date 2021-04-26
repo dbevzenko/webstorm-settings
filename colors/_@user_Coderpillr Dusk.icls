@@ -4,12 +4,14 @@
     <property name="created">2020-10-01T19:37:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2021-04-26T11:17:50</property>
+    <property name="modified">2021-04-26T15:52:24</property>
     <property name="originalScheme">Coderpillr Dusk</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
