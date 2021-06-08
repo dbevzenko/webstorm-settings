@@ -1,0 +1,18 @@
+<templateSet group="Custom">
+  <template name="{}" value="{&#10;    $SELECTION$&#10;}" description="Surround with {}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="R.memo" value="React.memo(() =&gt;&#10;    $SELECTION$&#10;)" description="Surround with React.memo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
