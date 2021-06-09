@@ -1,4 +1,4 @@
-<templateSet group="Custom">
+<templateSet group="React/Redux">
   <template name="{}" value="{&#10;    $SELECTION$&#10;}" description="Surround with {}" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
@@ -12,6 +12,17 @@
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSON" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="irr" value="import { useDispatch } from &quot;react-redux&quot;;" description="Import react-redux" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ir" value="import React, { useState, useCallback, useEffect } from &quot;react&quot;;" description="Import for React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
